@@ -1,0 +1,120 @@
+@media only screen and (max-width: 1200px) {
+ 
+
+.btun a {
+ 
+    font-size: 11px;
+    padding: 12px 18px;
+  }
+  
+  .slider h2 {
+ 
+    font-size: 56px;
+  }
+  
+  .about-top h2 {
+ 
+    font-size: 44px;
+  }
+  
+  .services h2 {
+ 
+    font-size: 40px;
+  }
+  
+  .about-content h3 {
+    font-size: 22px;
+  }
+  
+  .video-content h2 {
+ 
+    font-size: 44px;
+  }
+  
+  .case h2 {
+ 
+    font-size: 44px;
+  }
+  
+  .case-content h4 {
+ 
+    font-size: 18px;
+  }
+  
+  .test-box h4 {
+ 
+    font-size: 22px;
+  }
+  
+  .conatct-form {
+ 
+    padding: 60px;
+  }
+  
+  .blog h2 {
+ 
+    font-size: 44px;
+  }
+  
+  .blog-content {     padding: 18px;
+  }
+  
+  .blog-content a {
+ 
+    margin-top: 50px;
+  }
+  
+  .blog-content h4 {
+ 
+    font-size: 14px;
+    margin-bottom: 20px;
+  }
+  
+  .blog-content span.mgs {
+    font-size: 10px;
+  }
+  
+  
+  
+  .blog-content span {
+    font-size: 12px;
+  }
+  
+ }
+ @media only screen and (max-width: 991px) {
+ 
+.center-contact .contact {
+ 
+  margin-left: 50px;
+}
+
+.welcome-content p {
+  line-height: 1.5;
+}
+.main-menu ul li {
+ 
+  margin-right: 17px;
+ 
+}
+.conatct-form {
+   
+  padding: 30px;
+  }
+  .conatct-form input[type="submit"] {
+  width: none;
+  }
+  .conatct-form input, .conatct-form select {
+  
+    padding: 12px 25px;
+    }
+    ul.imp li a{
+      margin-left: 18px;
+ font-size: 12px;
+    }
+}
+@media only screen and (max-width: 600px) {
+   
+}
+@media only screen and (max-width: 600px) {
+   
+}
